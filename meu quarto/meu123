@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu quarto</title>
+</head>
+<body>
+    <h1>Olá, aqui se encontra o quarto de Luccas</h1>
+    <h2>Algumas coisinhas importantes sobre o quarto</h2>
+    <br/>
+    <ol>
+        <li> Aqui vc encontrará o garoto jogando e n atrapalhe.</li>
+        <li> Não entre no quarto a não ser se eu te chamar.</li>
+        <li> O quarto vai estar um pouco bagunçado.</li>
+        <li>Acordo tarde, por favor  não atrapalhar o sono dele.</li>
+   
+        
+    </ol>
+    <textarea id="opiniao" name="opiniao" rows="8" cols="35"></textarea>
+    <br/><br/>
+    <input type="submit" value="Enviar" />    <br/>
+</body>
+</html>
